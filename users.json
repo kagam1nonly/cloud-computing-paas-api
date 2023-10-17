@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "companyName": "Company A",
+      "employeeNames": [
+        "John",
+        "Alice"
+      ],
+      "positions": [
+        "Manager",
+        "Engineer"
+      ],
+      "location": "City X"
+    },
+    {
+      "id": 2,
+      "companyName": "Company B",
+      "employeeNames": [
+        "Bob",
+        "Eve"
+      ],
+      "positions": [
+        "CEO",
+        "Designer"
+      ],
+      "location": "City Y"
+    },
+    {
+      "companyName": "Company C",
+      "employeeNames": [
+        "Geralt",
+        "Sandara"
+      ],
+      "positions": [
+        "Witcher",
+        "K-Pop Idol"
+      ],
+      "location": "City Z",
+      "id": 3
+    }
+  ]
+}
