@@ -2,6 +2,7 @@
 
 Cloud Computing PaaS REST API: A Node.js-based API for managing user details. This RESTful service allows you to create a JSON library of users, get a list of users, insert a new user, retrieve a single user by ID, and delete a user by their ID. Built with Express.js, it's a flexible solution for user data management.
 
+<center><h2><strong>Get List of Users</strong></h2></center>
 ![Get List of Users](https://user-images.githubusercontent.com/78834746/275799979-4567208e-ded2-44bf-acb1-61d3f28dbd48.jpg)
 ![Get List of Users By ID](https://user-images.githubusercontent.com/78834746/275803401-290e14eb-a333-4de3-87a7-17cc09425d56.jpg)
 ![Inserting User](https://user-images.githubusercontent.com/78834746/275804014-1ef258c6-292f-470c-8a1c-67c7dd797de2.jpg)
