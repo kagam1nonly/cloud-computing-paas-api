@@ -4,7 +4,9 @@ Cloud Computing PaaS REST API: A Node.js-based API for managing user details. Th
 
 ## Dependencies
 ├── **express@4.18.2**: Express.js is a web application framework for Node.js. We use it for routing and handling HTTP requests.
+
 ├── **body-parser@1.20.2**: Body-parser is middleware for handling JSON data in requests. It's used to parse request bodies.
+
 └── **fs@0.0.1-security**: The File System module for reading and writing files. It's used to update user data in a JSON file.
 
 ## Getting Started
